@@ -1,4 +1,4 @@
-cd lucid_data_dreaming
+%cd lucid_data_dreaming%yezheng
 
 addpath(genpath('src'));
 %% inpainting
